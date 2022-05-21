@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/CUPAXXTECH/CustomThemeColor_React-Native">
+  <a href="https://github.com/CUPAXXTECH/CustomThemeColor">
     <img src="https://reactnative.dev/img/tiny_logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -10,12 +10,12 @@
   <p align="center">
     Create a custom theme color in react native on your own
     <br />
-    <a href="https://github.com/CUPAXXTECH/CustomThemeColor_React-Native"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/CUPAXXTECH/CustomThemeColor"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/CUPAXXTECH/CustomThemeColor_React-Native/issues">Report Bug</a>
+    <a href="https://github.com/CUPAXXTECH/CustomThemeColor/issues">Report Bug</a>
     ·
-    <a href="https://github.com/CUPAXXTECH/CustomThemeColor_React-Native/issues">Request Feature</a>
+    <a href="https://github.com/CUPAXXTECH/CustomThemeColor/issues">Request Feature</a>
   </p>
 </div>
 
@@ -70,7 +70,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/CUPAXXTECH/CustomThemeColor_React-Native
+   git clone https://github.com/CUPAXXTECH/CustomThemeColor
    ```
 2. Install NPM packages
    ```sh
