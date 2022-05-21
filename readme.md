@@ -46,8 +46,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 For some reason maybe you want a custom theme color in your react native app for fast styling and more. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -56,7 +54,7 @@ For some reason maybe you want a custom theme color in your react native app for
 
 This is the technology & package that I used to build this project.
 
-* [![React Native](https://img.shields.io/badge/React-Native-0.64.2-blue.svg?style=rounded-square)](https://reactnative.dev)
+[![React Native](https://img.shields.io/badge/React-Native-0.64.2-blue.svg?style=rounded-square)](https://reactnative.dev)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -98,17 +96,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-CUPAXXTECH - [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CUPAXXTECH)
-
-Instagram: [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/xfiqryx)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CUPAXXTECH)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/xfiqryx)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [React Native](https://reactnative.dev)
