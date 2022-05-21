@@ -10,7 +10,7 @@
   <p align="center">
     Create a custom theme color in react native on your own
     <br />
-    <a href="https://github.com/CUPAXXTECH/CustomThemeColor"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/CUPAXXTECH/CustomThemeColor#about-the-project"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/CUPAXXTECH/CustomThemeColor/issues">Report Bug</a>
