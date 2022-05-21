@@ -100,7 +100,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 CUPAXXTECH - [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CUPAXXTECH)
 
-Instagram: [https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://instagram.com/xfiqryx)
+Instagram: [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/xfiqryx)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
