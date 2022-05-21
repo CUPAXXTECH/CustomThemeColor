@@ -54,7 +54,7 @@ For some reason maybe you want a custom theme color in your react native app for
 
 This is the technology & package that I used to build this project.
 
-[![React Native](https://img.shields.io/badge/React-Native-0.64.2-blue.svg?style=rounded-square)](https://reactnative.dev)
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
